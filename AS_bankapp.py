@@ -31,7 +31,7 @@ class BankAccount:
 
 # Streamlit App
 def main():
-    st.title("🏦 Python Banking App")
+    st.title("🏦 Akash Banking App")
     
     # Initialize session state
     if 'accounts' not in st.session_state:
